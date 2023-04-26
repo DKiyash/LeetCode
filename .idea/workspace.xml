@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="224914e3-2471-4498-bc70-4300f5e1ac4c" name="Changes" comment="First commit Task_02 (Add Two Numbers) added">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task_03/Main.java" afterDir="false" />
+    <list default="true" id="224914e3-2471-4498-bc70-4300f5e1ac4c" name="Changes" comment="Added Tack_03">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task_04/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +38,11 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dima/IdeaProjects/LeetCode&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dima/IdeaProjects/LeetCode&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task_03.Main">
+  <component name="RunManager" selected="Application.Task_04.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task_01.Main" />
       <module name="LeetCode" />
@@ -84,8 +82,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task_04.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_04.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_04.Main" />
         <item itemvalue="Application.Task_03.Main" />
         <item itemvalue="Application.Task_02.Main" />
         <item itemvalue="Application.Main" />
@@ -106,6 +118,8 @@
       <workItem from="1682403815483" duration="1166000" />
       <workItem from="1682405339825" duration="5819000" />
       <workItem from="1682487824210" duration="105000" />
+      <workItem from="1682488542774" duration="2398000" />
+      <workItem from="1682491371755" duration="4420000" />
     </task>
     <task id="LOCAL-00001" summary="First commit Task_01 (Two Sum) added">
       <created>1675859012578</created>
@@ -121,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675878819431</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Tack_03">
+      <created>1682488688254</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682488688254</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +153,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -141,6 +174,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit Task_01 (Two Sum) added" />
     <MESSAGE value="First commit Task_02 (Add Two Numbers) added" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit Task_02 (Add Two Numbers) added" />
+    <MESSAGE value="Added Tack_03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Tack_03" />
   </component>
 </project>
